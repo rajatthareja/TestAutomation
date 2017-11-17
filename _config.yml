@@ -1,0 +1,14 @@
+title: Automation
+email: mail@rajatthareja.com
+description: >-
+  Quality Assurance
+  Test Automation
+baseurl: ""
+url: ""
+twitter_username: RajatThareja
+github_username:  rajatthareja
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
