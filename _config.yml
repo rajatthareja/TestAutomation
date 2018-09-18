@@ -5,8 +5,6 @@ description: >-
   Test Automation
 baseurl: ""
 url: ""
-twitter_username: RajatThareja
 github_username:  rajatthareja
-
 markdown: kramdown
 theme: architect
