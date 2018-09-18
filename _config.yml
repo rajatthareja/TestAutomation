@@ -11,3 +11,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 show_excerpts: true
+google_analytics: UA-33561933-2
