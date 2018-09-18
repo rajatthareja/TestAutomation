@@ -9,6 +9,4 @@ twitter_username: RajatThareja
 github_username:  rajatthareja
 
 markdown: kramdown
-theme: jekyll-theme-architect
-plugins:
-  - jekyll-feed
+theme: architect
