@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Automation"
+title:  "Why Automation ?"
 date:   2017-11-16 10:23:48 +0530
 categories: automation
 tags: automation

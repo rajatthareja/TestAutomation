@@ -2,11 +2,11 @@ title: Test Automation Club
 email: rajat@testautomation.club
 description: >-
   Quality Assurance
-  Test Automation
+  Test Automation Club
 baseurl: ""
 url: ""
-github_username:  rajatthareja
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+show_excerpts: true

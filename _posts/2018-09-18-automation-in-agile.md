@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automation in Agile"
+title:  "Automation in Agile."
 date:   2018-09-18 11:59:48 +0530
 categories: automation
 tags: automation
