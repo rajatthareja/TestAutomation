@@ -8,5 +8,3 @@ url: ""
 github_username:  rajatthareja
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
