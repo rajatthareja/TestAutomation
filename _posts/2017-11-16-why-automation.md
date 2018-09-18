@@ -4,6 +4,7 @@ title:  "Why Automation ?"
 date:   2017-11-16 10:23:48 +0530
 categories: automation
 tags: automation
+author: "Rajat Thareja"
 ---
 
 - Minimize manual errors, executes same steps every time, with precision.

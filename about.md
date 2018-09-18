@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a Quality Assurance Test Automation Blog. 
+This is a Quality Assurance Test Automation Club. 
